@@ -1,9 +1,11 @@
 // UITableViewDelegate
 // Placeholders for required UITableViewDelegate protocol methods
-// 
-// Platform: iOS
+//
+// IDECodeSnippetIdentifier: FCBF5233-81AE-4FFF-B889-3FE0FCCAE22D
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Platform: iOS
 
 #pragma mark - UITableViewDelegate
 

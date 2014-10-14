@@ -1,7 +1,10 @@
 // Documents Directory Path
+// 
 //
-// Platform: All
+// IDECodeSnippetIdentifier: 036A6745-2798-4080-AE1D-65DEF1E6BF53
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 NSURL *documentsDirectoryURL = [NSURL fileURLWithPath:[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) firstObject]];
